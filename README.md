@@ -1,6 +1,6 @@
 # Basic Book List
 
-## Deployment: [http://tvanmaren-booklist.surge.sh/](tvanmaren-booklist.surge.sh/)
+## Deployment: [tvanmaren-booklist.surge.sh/](http://tvanmaren-booklist.surge.sh/)
 
 ## Project Description
 
